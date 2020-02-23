@@ -1,0 +1,27 @@
+{
+  "name": "workflow2_ca_practical",
+  "version": "1.0.0",
+  "description": "To minify images and css from first year of html&css course CA using gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urvashiyadav09/Workflow2-CA-minify-images-and-css.git"
+  },
+  "author": "Urvashi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urvashiyadav09/Workflow2-CA-minify-images-and-css/issues"
+  },
+  "homepage": "https://github.com/urvashiyadav09/Workflow2-CA-minify-images-and-css#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-minify-css": "^1.2.4"
+  }
+}
